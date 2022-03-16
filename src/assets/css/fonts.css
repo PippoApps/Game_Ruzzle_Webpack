@@ -1,0 +1,20 @@
+@font-face{
+    font-family:"IQOSW02-Bold";
+    src:url("/assets/game_fonts/IQOS-Bold.ttf");
+}
+
+@font-face{
+    font-family:"IQOSW02-Light";
+    src:url("/assets/game_fonts/IQOS-Light.ttf");
+}
+
+@font-face{
+    font-family:"IQOSW02-Regular";
+    src:url("/assets/game_fonts/IQOS-Regular.ttf");
+}
+
+
+@font-face{
+    font-family:"IQOSW04-Regular";
+    src:url("/assets/game_fonts/IQOSW04-Regular.woff2");
+}

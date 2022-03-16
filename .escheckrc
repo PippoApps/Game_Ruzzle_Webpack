@@ -1,0 +1,6 @@
+{
+  "ecmaVersion": "es6",
+  "module": false,
+  "files": ".\\dist\\**\\*.js",
+  "not": ["./dist/skip/*.js"]
+}
